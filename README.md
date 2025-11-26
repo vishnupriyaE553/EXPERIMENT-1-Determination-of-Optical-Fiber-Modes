@@ -12,10 +12,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ## 📚 THEORY
 
-The central spot carries 95% of the intensity for laser beams with Gaussian profile. I = Ioe-2(r / w) ^2 where e = 2.718 is the base of the natural logarithm. An accepted definition of a radius of a Gaussian beam is t 0.135 times its peak value Io. This radius is called spot size. The spot diameter is w.
-Spot Diameter (d) micron = Focal length of the Lens (f) mm x Laser beam full divergence angle (DA) mrad. In order to achieve maximum coupling efficiency, the fiber core diameter has to be bigger than the spot diameter. 
-NA rays = Laser Beam Diameter (B.D.) 2 x Lens Focal Length (f)
-The source coupler is comprised of two base plates. One of the base plates contains a focusing lens and a female connector receptacle. The other base plate is attached onto the laser. An O-ring is sandwiched between the base plates. Threaded screws interconnect the two base plates. A screw driver to alter the angular orientation of one base plate relative to the	other can then adjust the screws.
+The central spot carries 95% of the intensity for laser beams with Gaussian profile. I = Ioe-2(r / w) ^2 where e = 2.718 is the base of the natural logarithm. An accepted definition of a radius of a Gaussian beam is t 0.135 times its peak value Io. This radius is called spot size. The spot diameter is w. Spot Diameter (d) micron = Focal length of the Lens (f) mm x Laser beam full divergence angle (DA) mrad. In order to achieve maximum coupling efficiency, the fiber core diameter has to be bigger than the spot diameter. NA rays = Laser Beam Diameter (B.D.) 2 x Lens Focal Length (f) The source coupler is comprised of two base plates. One of the base plates contains a focusing lens and a female connector receptacle. The other base plate is attached onto the laser. An O-ring is sandwiched between the base plates. Threaded screws interconnect the two base plates. A screw driver to alter the angular orientation of one base plate relative to the	other can then adjust the screws.
  
 The number of modes propagating through the fiber depends on V-number. If the fiber whose number is less than 2.045,	it allows to propagate single mode through it, so it is called as Single Mode fiber. A Multimode fiber, V-number is slightly greater than 2.045 but the number of allowed modes is small enough that they may be individually identified when the output of the fiber is examined. When V < 2.045, then only a single mode may propagate in the fiber waveguide. This mode is HE11 mode or LP01 – Linearly Polarized mode. When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
@@ -34,14 +31,17 @@ The number of modes propagating through the fiber depends on V-number. If the fi
 
 
 ## 📊 OBSERVATION AND CALCULATION
-
-- 
+```
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
+```
+<img width="1280" height="1205" alt="image" src="https://github.com/user-attachments/assets/14e01f9b-44c5-4e5c-9144-bb5aab0b5a65" />
 
----
 ## Tabulation
+
+<img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/3dbd8afe-559f-451d-928e-eac2528aedc9" />
+
 ## Result
 Thus the mode characteristics of fiber optic cable supports or propagates through 6 modes and observe four lower order Linearly Polarized (LP) modes.
