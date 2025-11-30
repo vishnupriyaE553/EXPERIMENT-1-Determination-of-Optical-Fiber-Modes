@@ -29,7 +29,6 @@ The number of modes propagating through the fiber depends on V-number. If the fi
 9. Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
 10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 
-
 ## 📊 OBSERVATION AND CALCULATION
 ```
 Parameter of given fiber are,
@@ -40,7 +39,6 @@ Total number of modes = V2 / 2 = 4.912 / 2
 <img width="1280" height="1205" alt="image" src="https://github.com/user-attachments/assets/14e01f9b-44c5-4e5c-9144-bb5aab0b5a65" />
 
 ## Tabulation
-
 <img width="1280" height="540" alt="image" src="https://github.com/user-attachments/assets/3dbd8afe-559f-451d-928e-eac2528aedc9" />
 
 ## Result
